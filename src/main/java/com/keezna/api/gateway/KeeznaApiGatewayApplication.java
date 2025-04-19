@@ -8,6 +8,6 @@ public class KeeznaApiGatewayApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KeeznaApiGatewayApplication.class, args);
-        System.out.println("aaaabbbb");
+        System.out.println("aaa");
     }
 }
